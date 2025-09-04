@@ -1,3 +1,3 @@
 # Optimizing Classification Performance in Google Earth Engine 
 ## Cloud Computing in Earth Engine
-In recent years, the use of cloud computation platform such as google earth engine allows for many 
+In recent years, cloud-based platforms such as Google Earth Engine (GEE) have become increasingly popular across a wide range of scientific and applied disciplines. By shifting computation from local machines to the cloud, GEE has revolutionized remote sensing workflows, enabling large-scale and long-term analyses that were previously limited by hardware constraints. One of the most common applications of GEE is supervised classification, which leverages machine learning algorithm in their process. This 
